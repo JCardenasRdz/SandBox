@@ -1,0 +1,15 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=agoldsher
+$$ Wed Jun 14 14:25:35 2017 MST (UT-7h)  agoldsher
+$$ /opt/PV51/data/agoldsher/nmr/AVG-uPA-T1-AR2.HY1/AdjResult/2.16.756.5.5.100.4167689927.13985.1497475469.128/result.jcamp
+##$PVM_RefAtt=( 2 )
+(<1H>, 23.6146622571953, <Default_QuadTransceiver_1H_1000W -2 2 2 2 1 1 1H  
+1168442285>) (<1H>, 21.465510979692, <Default_Transceiver_1H_1000W -2 2 2 2 1 
+1 1H  1168442285>)
+##$PVM_DeriveGains=Yes
+##$PVM_StudyRefAtt=(<1H>, 23.6146622571953, <Adj by AdjRefG (protocol 
+ADJ_REFG)>)
+##END=

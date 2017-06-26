@@ -1,0 +1,153 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=agoldsher
+$$ Wed Jun 14 16:08:50 2017 MST (UT-7h)  agoldsher
+$$ /opt/PV51/data/agoldsher/nmr/AVG-uPA-T1-AOO.HY1/1/pdata/1/visu_pars
+##$VisuVersion=1
+##$VisuUid=( 65 )
+<2.16.756.5.5.100.4167689927.15715.1497481730.1709>
+##$VisuCreator=( 65 )
+<ParaVision>
+##$VisuCreatorVersion=( 65 )
+<5.1>
+##$VisuCreationDate=( 21 )
+<16:07:44 14 Jun 2017>
+$$ @vis= VisuVersion VisuUid VisuCreator VisuCreatorVersion VisuCreationDate
+##$VisuCoreFrameCount=40
+##$VisuCoreDim=2
+##$VisuCoreSize=( 2 )
+96 96
+##$VisuCoreDimDesc=( 2 )
+spatial spatial
+$$ @vis= VisuInstance VisuCoreFrameCount VisuCoreDim VisuCoreSize
+##$VisuCoreExtent=( 2 )
+48 48
+##$VisuCoreFrameThickness=( 1 )
+1
+##$VisuCoreUnits=( 2, 65 )
+<mm> <mm>
+##$VisuCoreOrientation=( 40, 9 )
+1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 
+0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 
+0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 
+1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 
+0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 
+0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 
+1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 
+0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 
+0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 
+1 0 0 0 1 0 0 0 1
+$$ @vis= VisuCoreDimDesc VisuCoreExtent VisuCoreFrameThickness VisuCoreUnits
+##$VisuCorePosition=( 40, 3 )
+-24 -24 -19.5 -24 -24 -18.5 -24 -24 -17.5 -24 -24 -16.5 -24 -24 -15.5 -24 -24 
+-14.5 -24 -24 -13.5 -24 -24 -12.5 -24 -24 -11.5 -24 -24 -10.5 -24 -24 -9.5 
+-24 -24 -8.5 -24 -24 -7.5 -24 -24 -6.5 -24 -24 -5.5 -24 -24 -4.5 -24 -24 -3.5 
+-24 -24 -2.5 -24 -24 -1.5 -24 -24 -0.5 -24 -24 0.5 -24 -24 1.5 -24 -24 2.5 
+-24 -24 3.5 -24 -24 4.5 -24 -24 5.5 -24 -24 6.5 -24 -24 7.5 -24 -24 8.5 -24 
+-24 9.5 -24 -24 10.5 -24 -24 11.5 -24 -24 12.5 -24 -24 13.5 -24 -24 14.5 -24 
+-24 15.5 -24 -24 16.5 -24 -24 17.5 -24 -24 18.5 -24 -24 19.5
+##$VisuCoreDataMin=( 40 )
+2 0 3 1 3 1 2 2 4 2 5 2 3 1 1 3 0 1 1 2 3 3 3 4 2 4 1 1 1 2 3 2 3 2 1 1 2 1 1 
+2
+##$VisuCoreDataMax=( 40 )
+15334 20422 21086 18199 11347 23841 31316 27241 32766 32766 31892 27759 23140 
+25156 30898 27751 22256 28106 32766 32766 32766 32766 32766 32766 31360 30769 
+31572 29323 30029 32765 32299 32672 32766 31068 32257 32713 32766 31737 32465 
+32766
+##$VisuCoreDataOffs=( 40 )
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0
+$$ @vis= VisuCoreOrientation VisuCorePosition VisuCoreDataMin VisuCoreDataMax
+##$VisuCoreDataSlope=( 40 )
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689 
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689 
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689 
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689 
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689 
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689 
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689 
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689 
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689 
+94.1948034425689 94.1948034425689 94.1948034425689 94.1948034425689
+##$VisuCoreFrameType=MAGNITUDE_IMAGE
+##$VisuCoreWordType=_16BIT_SGN_INT
+$$ @vis= VisuCoreDataOffs VisuCoreDataSlope VisuCoreFrameType VisuCore
+##$VisuCoreByteOrder=littleEndian
+##$VisuFGOrderDescDim=1
+##$VisuFGOrderDesc=( 1 )
+(40, <FG_SLICE>, <>, 0, 2)
+$$ @vis= VisuCoreWordType VisuCoreByteOrder VisuPixel VisuFGOrderDescDim
+##$VisuGroupDepVals=( 2 )
+(<VisuCoreOrientation>, 0) (<VisuCorePosition>, 0)
+##$VisuSubjectName=( 65 )
+<AVG-uPA-T1-AOO>
+##$VisuSubjectId=( 65 )
+<AVG-uPA-T1-AOO>
+$$ @vis= VisuFGOrderDesc VisuGroupDepVals VisuFrameOrderDesc VisuSubjectName
+##$VisuSubjectBirthDate=( 9 )
+<>
+##$VisuSubjectSex=FEMALE
+##$VisuSubjectComment=( 2048 )
+<>
+$$ @vis= VisuSubjectId VisuSubjectBirthDate VisuSubjectSex VisuSubjectComment
+##$VisuStudyUid=( 65 )
+<2.16.756.5.5.100.4167689927.13947.1497480666.3492>
+##$VisuStudyDate=( 21 )
+<15:51:06 14 Jun 2017>
+##$VisuStudyId=( 65 )
+<AVG-uPA-T1-AOO>
+##$VisuStudyNumber=1
+##$VisuSubjectWeight=5
+$$ @vis= VisuSubject VisuStudyUid VisuStudyDate VisuStudyId VisuStudyNumber
+##$VisuStudyReferringPhysician=( 65 )
+<>
+##$VisuStudyDescription=( 65 )
+<>
+$$ @vis= VisuSubjectWeight VisuStudyReferringPhysician VisuStudyDescription
+##$VisuSeriesNumber=65537
+##$VisuSubjectPosition=Head_Supine
+##$VisuSeriesTypeId=( 65 )
+<ACQ_BRUKER_PVM>
+$$ @vis= VisuStudy VisuSeriesNumber VisuSubjectPosition VisuSeriesTypeId
+##$VisuInstitution=( 65 )
+<Univ. of Arizona>
+##$VisuStation=( 65 )
+<Biospec 70/20>
+##$VisuAcqDate=( 21 )
+<16:07:44 14 Jun 2017>
+##$VisuAcqEchoTrainLength=1
+$$ @vis= VisuSeries VisuInstitution VisuStation VisuEquipment VisuAcqDate
+##$VisuAcqSequenceName=( 40 )
+<MSME (pvm)>
+##$VisuAcqNumberOfAverages=1
+##$VisuAcqImagingFrequency=300.242781153388
+$$ @vis= VisuAcqEchoTrainLength VisuAcqSequenceName VisuAcqNumberOfAverages
+##$VisuAcqImagedNucleus=( 8 )
+<1H>
+##$VisuAcqRepetitionTime=( 1 )
+653.16
+##$VisuAcqPhaseEncSteps=96
+$$ @vis= VisuAcqImagingFrequency VisuAcqImagedNucleus VisuAcqRepetitionTime
+##$VisuAcqPixelBandwidth=520.833333333333
+##$VisuAcqFlipAngle=180
+##$VisuAcqSize=( 2 )
+96 96
+$$ @vis= VisuAcqPhaseEncSteps VisuAcqPixelBandwidth VisuAcqFlipAngle
+##$VisuAcqImageSizeAccellerated=No
+##$VisuAcqImagePhaseEncDir=( 40 )
+col_dir col_dir col_dir col_dir col_dir col_dir col_dir col_dir col_dir 
+col_dir col_dir col_dir col_dir col_dir col_dir col_dir col_dir col_dir 
+col_dir col_dir col_dir col_dir col_dir col_dir col_dir col_dir col_dir 
+col_dir col_dir col_dir col_dir col_dir col_dir col_dir col_dir col_dir 
+col_dir col_dir col_dir col_dir
+##$VisuAcqEchoTime=( 1 )
+10
+$$ @vis= VisuAcqSize VisuAcqImageSizeAccellerated VisuAcqImagePhaseEncDir
+##$VisuAcquisitionProtocol=( 65 )
+<invivo_localizer_axial_20170614>
+##$VisuAcqScanTime=62703
+$$ @vis= VisuAcqEchoTime VisuAcquisitionProtocol VisuAcqScanTime
+$$ @vis= VisuAcquisition Visu
+##END=

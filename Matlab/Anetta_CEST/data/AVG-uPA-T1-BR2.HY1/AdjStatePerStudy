@@ -1,0 +1,42 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=agoldsher
+$$ Wed Jun 14 17:58:03 2017 MST (UT-7h)  agoldsher
+$$ /opt/PV51/data/agoldsher/nmr/AVG-uPA-T1-BR2.HY1/AdjStatePerStudy
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=3
+##$AdjStudyStateAdjName=( 6, 128 )
+<FREQ_Standard> <SHIM_Standard> <TRANSM_Standard> <FREQ_Standard> <
+SHIM_Standard> <TRANSM_Standard>
+##$AdjStudyStateCategory=( 6 )
+FREQ SHIM TRANSM FREQ SHIM TRANSM
+##$AdjStudyStateAdjustPars=( 6, 1024 )
+<ACQ_BF> <PVM_StudyShim> <PVM_StudyRefAtt> <ACQ_BF> <PVM_StudyShim> <
+PVM_StudyRefAtt>
+##$AdjStudyStateTime=( 6, 21 )
+<17:40:03 14 Jun 2017> <17:40:19 14 Jun 2017> <17:40:48 14 Jun 2017> <
+17:43:20 14 Jun 2017> <17:43:33 14 Jun 2017> <17:44:02 14 Jun 2017>
+##$AdjStudyStateExpno=( 6 )
+1 1 1 1 1 1
+##$AdjStudyStateState=( 6 )
+adj_successful adj_successful adj_failed adj_successful adj_successful 
+adj_successful
+##$AdjStudyStateResultId=( 6, 65 )
+<> <2.16.756.5.5.100.4167689927.13985.1497487203.213> <
+2.16.756.5.5.100.4167689927.13985.1497487203.214> <> <
+2.16.756.5.5.100.4167689927.13985.1497487400.232> <
+2.16.756.5.5.100.4167689927.13985.1497487400.233>
+##$AdjStudyStateMethod=( 6, 128 )
+<AdjSf> <AdjShim> <AdjRefG> <AdjSf> <AdjShim> <AdjRefG>
+##$AdjStudyStateMethodContext=( 6, 128 )
+<> <> <> <> <> <>
+##$AdjStudyStateHwChainNdxs=( 6 )
+(0, 0) (0, 1) (1, 0) (1, 0) (1, 1) (2, 1)
+##$AdjStudyStateHwChains=( 3 )
+((SHIM_CHAIN, -1), <SHIM_BGA12S.399289>) ((SHIM_CHAIN, -1), <
+SHIM_BGA12S.399289>) ((TRANS_CHAIN, -2), <Default_QuadTransceiver_1H_1000W -2 
+2 2 2 1 1 1H  1168442285>)
+##$AdjStudyListConfigTime=1190094339
+##END=

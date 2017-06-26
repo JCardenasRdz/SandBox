@@ -1,0 +1,35 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=agoldsher
+$$ Wed Jun 14 13:47:32 2017 MST (UT-7h)  agoldsher
+$$ /opt/PV51/data/agoldsher/nmr/AVG-uPA-T1-AL2.HY1/AdjStatePerStudy
+##$AdjStudyStateCompleted=Yes
+##$AdjStudyStateResetNdx=0
+##$AdjStudyStateAdjName=( 3, 128 )
+<FREQ_Standard> <SHIM_Standard> <TRANSM_Standard>
+##$AdjStudyStateCategory=( 3 )
+FREQ SHIM TRANSM
+##$AdjStudyStateAdjustPars=( 3, 1024 )
+<ACQ_BF> <PVM_StudyShim> <PVM_StudyRefAtt>
+##$AdjStudyStateTime=( 3, 21 )
+<12:41:45 14 Jun 2017> <12:42:04 14 Jun 2017> <12:42:33 14 Jun 2017>
+##$AdjStudyStateExpno=( 3 )
+1 1 1
+##$AdjStudyStateState=( 3 )
+adj_successful adj_successful adj_successful
+##$AdjStudyStateResultId=( 3, 65 )
+<> <2.16.756.5.5.100.4167689927.13985.1497469305.80> <
+2.16.756.5.5.100.4167689927.13985.1497469305.81>
+##$AdjStudyStateMethod=( 3, 128 )
+<AdjSf> <AdjShim> <AdjRefG>
+##$AdjStudyStateMethodContext=( 3, 128 )
+<> <> <>
+##$AdjStudyStateHwChainNdxs=( 3 )
+(0, 0) (0, 1) (1, 1)
+##$AdjStudyStateHwChains=( 2 )
+((SHIM_CHAIN, -1), <SHIM_BGA12S.399289>) ((TRANS_CHAIN, -2), <
+Default_QuadTransceiver_1H_1000W -2 2 2 2 1 1 1H  1168442285>)
+##$AdjStudyListConfigTime=1190094339
+##END=

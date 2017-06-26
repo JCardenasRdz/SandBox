@@ -1,0 +1,13 @@
+##TITLE=Parameter List
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=agoldsher
+$$ Wed Jun 14 14:25:13 2017 MST (UT-7h)  agoldsher
+$$ /opt/PV51/data/agoldsher/nmr/AVG-uPA-T1-AR2.HY1/AdjResult/2.16.756.5.5.100.4167689927.13985.1497475469.127/result.jcamp
+##$ACQ_BF=( 1 )
+(<1H>, 300.242839329521)
+##$PVM_TuneShimFreqOffs=( 1 )
+199.78584615471
+##$PVM_StudyShim=(0, 2738, 0, 0, 0, 435, 437, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+##END=
