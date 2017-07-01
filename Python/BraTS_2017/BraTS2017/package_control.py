@@ -5,4 +5,3 @@ import pandas as pd
 
 # dicom
 import dicom
-import os
